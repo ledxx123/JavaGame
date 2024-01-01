@@ -16,3 +16,4 @@ The Interaction here is that character is trying to save his friend  by finding 
 This is a very challenging task and The're some part of the code that is not mine and some parts are modified and implemented  That's why  I acknowledged the effort of Mr. RyiSnow for creating a tutorial videos for 2D games. This served as a guide for me to start this project. You can check his tutorial videos by visiting his Youtube Channel https://www.youtube.com/@RyiSnow
 I've Implemented sound effects for this game. The sound effects is from https://pixabay.com/sound-effects/
 
+<img width="958" alt="image" src="https://github.com/ledxx123/JavaGame/assets/152833895/0c882bcd-2501-463c-b357-1e27b85d4ca9">
